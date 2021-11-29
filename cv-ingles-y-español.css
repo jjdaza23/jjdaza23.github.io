@@ -138,7 +138,7 @@ footer p {
   font-size: 18px;
 }
 
-@media only screen and (max-width: 725px) {
+@media only screen and (max-width: 800px) {
   /* For mobile phones: */
   #lang {
     display: none;
