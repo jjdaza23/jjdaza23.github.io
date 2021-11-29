@@ -178,11 +178,10 @@ footer p {
   #main-doc {
     position: relative;
     margin-left: 0px;
-    margin-top: 270px;
+    margin-top: 280px;
   }
     footer p {
-    font-size: 10px;
-    pading: 0 5px 0 5px
+    font-size: 18px;
     color: #F0F;
   }
 }
