@@ -99,12 +99,12 @@ h1 {
   width: 80%;
   margin-left: 100px;
   padding: 20px;
-  margin-top: 360px;
+  margin-top: 350px;
 }
 #main-doc h3 {
   font-size: 1.5em;
   text-align: left;
-  margin: 10vh 0 0 0;
+  margin: 8vh 0 0 0;
   font-weight: normal;
 }
 section div {
@@ -167,7 +167,7 @@ footer p {
   #main-doc {
     position: relative;
     margin-left: 0px;
-    margin-top: 240px;
+    margin-top: 255px;
   }
   footer ul {
     font-size: 10px;
