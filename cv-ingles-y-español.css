@@ -170,7 +170,8 @@ footer p {
     margin-top: 255px;
   }
   footer ul {
-    font-size: 10px;
+    font-size: 12px;
+    font-color: #FF0;
   }
 }
 
@@ -179,6 +180,9 @@ footer p {
     position: relative;
     margin-left: 0px;
     margin-top: 270px;
+  }
+    footer ul {
+    font-size: 10px;
   }
 }
 
