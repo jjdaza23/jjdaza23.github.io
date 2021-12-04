@@ -175,7 +175,7 @@ footer p {
   }
 }
 
-@media only screen and (max-height: 700px) and (max-width: 340px){
+@media only screen and (max-height: 700px) and (max-width: 345px){
   #main-doc {
     position: relative;
     margin-left: 0px;
